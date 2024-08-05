@@ -1,0 +1,20 @@
+.env*
+.venv/
+venv/
+.idea/
+.idea
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+env.bak/
+venv.bak/
+*.env
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
